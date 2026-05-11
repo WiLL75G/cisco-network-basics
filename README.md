@@ -17,7 +17,7 @@ Rather than hosting course content here, it points you directly to Cisco's offic
 **Step 1** — [Create your free Cisco NetAcad account](https://www.netacad.com)  
 **Step 2** — [Enroll in Networking Basics (free)](https://www.netacad.com/courses/networking-basics)  
 **Step 3** — [Download Packet Tracer (free lab simulator)](https://www.netacad.com/courses/packet-tracer)  
-**Step 4** — Follow the [Course Navigation](./coursenavigation.md) file below
+**Step 4** — Follow the [Course Navigation](./coursenavigation.md) file below 👇
 
 ---
 
