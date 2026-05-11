@@ -1,18 +1,18 @@
-# 🌐 Cisco Network Basics
+# Cisco Network Basics
 
 > A structured learning hub for complete beginners entering the world of computer networking.  
 > Every link takes you to an **official Cisco resource** no guesswork, no paywalls.
 
 ---
 
-## 👋 What Is This Repo?
+## What Is This Repo?
 
 This repo acts as a **guided roadmap** for anyone starting from zero in networking.  
 Rather than hosting course content here, it points you directly to Cisco's official platforms in the right order — so you learn the right things, in the right sequence.
 
 ---
 
-## 🚀 Where To Start
+## Where To Start
 
 **Step 1** — [Create your free Cisco NetAcad account](https://www.netacad.com)  
 **Step 2** — [Enroll in Networking Basics (free)](https://www.netacad.com/courses/networking-basics)  
@@ -21,9 +21,9 @@ Rather than hosting course content here, it points you directly to Cisco's offic
 
 ---
 
-## 📂 Course Navigation
+## Course Navigation
 
-👉 **[Open the Full Course Navigation →](./coursenavigation.md)**
+**[Open the Full Course Navigation →](./coursenavigation.md)**
 
 ---
 
