@@ -49,7 +49,7 @@
 - [What is a Switch?](https://www.netacad.com/courses/networking-basics)
 - [How Routing Works](https://learningnetwork.cisco.com/s/article/routing-basics)
 - [Static vs Dynamic Routing](https://learningnetwork.cisco.com/s/article/routing-basics)
-- [VLANs — What They Are & Why They Matter](https://learningnetwork.cisco.com/s/article/vlan)
+- [VLANs: What They Are & Why They Matter](https://learningnetwork.cisco.com/s/article/vlan)
 - [Inter-VLAN Routing](https://learningnetwork.cisco.com/s/article/vlan)
 - [Routing Lab (Packet Tracer)](https://www.netacad.com/courses/packet-tracer)
 - [VLAN Lab (Packet Tracer)](https://www.netacad.com/courses/packet-tracer)
@@ -73,7 +73,7 @@
 - [Getting Started with Packet Tracer](https://www.netacad.com/courses/packet-tracer)
 - [Build Your First Network (Lab)](https://www.netacad.com/courses/packet-tracer)
 - [Explore Free Packet Tracer Activities](https://www.netacad.com/courses/packet-tracer)
-- [Cisco Skills for All — Free Guided Projects](https://skillsforall.com)
+- [Cisco Skills for All Free Guided Projects](https://skillsforall.com)
 
 ---
 
