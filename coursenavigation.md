@@ -14,7 +14,7 @@
 - [What is a Network?](https://www.netacad.com/courses/networking-basics)
 - [Types of Networks (LAN, WAN, MAN)](https://www.netacad.com/courses/networking-basics)
 - [Network Topologies](https://www.netacad.com/courses/networking-basics)
-- [The OSI Model — 7 Layers Explained](https://learningnetwork.cisco.com/s/article/osi-model)
+- [The OSI Model: 7 Layers Explained](https://learningnetwork.cisco.com/s/article/osi-model)
 - [The TCP/IP Model](https://learningnetwork.cisco.com/s/article/tcp-ip-model)
 - [Networking Fundamentals Lab (Packet Tracer)](https://www.netacad.com/courses/packet-tracer)
 
