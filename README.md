@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 # 🌐 Cisco Network Basics
 
 > A structured learning hub for complete beginners entering the world of computer networking.  
-> Every link takes you to an **official Cisco resource** — no guesswork, no paywalls.
+> Every link takes you to an **official Cisco resource** no guesswork, no paywalls.
 
 ---
 
@@ -48,4 +47,3 @@ This repo is not affiliated with or endorsed by Cisco.
 =======
 # cisco-network-basics
 A structured learning hub for Cisco networking beginners
->>>>>>> 84ff585387f604eab44cdb72d21009e2278d4194
