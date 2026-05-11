@@ -4,7 +4,7 @@
 
 ## [Welcome](https://www.netacad.com)
 
-- [Start Here — Create Your Free NetAcad Account](https://www.netacad.com/sign-up)
+- [Start Here: Create Your Free NetAcad Account](https://www.netacad.com/sign-up)
 - [Getting Support & The Cisco Learning Community](https://learningnetwork.cisco.com/s/)
 
 ---
@@ -35,7 +35,7 @@
 ## [Cisco IOS & CLI Basics](https://www.netacad.com/courses/ccna)
 
 - [What is Cisco IOS?](https://learningnetwork.cisco.com/s/article/cisco-ios)
-- [Navigating the CLI — User, Privileged & Global Modes](https://learningnetwork.cisco.com/s/article/cisco-ios)
+- [Navigating the CLI: User, Privileged & Global Modes](https://learningnetwork.cisco.com/s/article/cisco-ios)
 - [Essential Show Commands](https://learningnetwork.cisco.com/s/article/cisco-ios-commands)
 - [Configuring Hostnames & Passwords](https://learningnetwork.cisco.com/s/article/cisco-ios)
 - [Saving Your Configuration](https://learningnetwork.cisco.com/s/article/cisco-ios)
@@ -67,7 +67,7 @@
 
 ---
 
-## [Practice Labs — Packet Tracer](https://www.netacad.com/courses/packet-tracer)
+## [Practice Labs: Packet Tracer](https://www.netacad.com/courses/packet-tracer)
 
 - [Download & Install Packet Tracer (Free)](https://www.netacad.com/courses/packet-tracer)
 - [Getting Started with Packet Tracer](https://www.netacad.com/courses/packet-tracer)
@@ -89,8 +89,8 @@
 
 ## [Additional Resources](https://learningnetwork.cisco.com/s/)
 
-- [Cisco Networking Academy — All Free Courses](https://www.netacad.com/courses/all)
+- [Cisco Networking Academy: All Free Courses](https://www.netacad.com/courses/all)
 - [Cisco Skills for All (Beginner Friendly)](https://skillsforall.com)
-- [Cisco Learning Network — Community & Forums](https://learningnetwork.cisco.com/s/)
+- [Cisco Learning Network: Community & Forums](https://learningnetwork.cisco.com/s/)
 - [Cisco YouTube Channel](https://www.youtube.com/@CiscoNetworkingAcademy)
 - [Cisco Press — Official Study Books](https://www.ciscopress.com)
