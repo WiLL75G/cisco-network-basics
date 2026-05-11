@@ -8,7 +8,7 @@
 ## What Is This Repo?
 
 This repo acts as a **guided roadmap** for anyone starting from zero in networking.  
-Rather than hosting course content here, it points you directly to Cisco's official platforms in the right order — so you learn the right things, in the right sequence.
+Rather than hosting course content here, it points you directly to Cisco's official platforms in the right order so you learn the right things, in the right sequence.
 
 ---
 
